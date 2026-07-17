@@ -5,14 +5,14 @@ A complete Python-based checkout system simulating the Coles online shopping wor
 ---
 
 ## Project Structure
-
+```text
 Software_Engineering_Assessment/
 │
 ├── coles.py               # Core business logic (eligibility, limits, discounts)
 ├── test_coles.py          # Full unittest suite covering all functions
 ├── main.py                # CLI application supplied as part of the university assessment
 └── README.md              # Project documentation
-
+```
 ---
 
 ## Overview
