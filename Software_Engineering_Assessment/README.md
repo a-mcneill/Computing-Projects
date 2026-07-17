@@ -13,7 +13,6 @@ Software_Engineering_Assessment/
 ├── main.py                # CLI application supplied as part of the university assessment
 └── README.md              # Project documentation
 
-
 ---
 
 ## Overview
@@ -63,8 +62,8 @@ Distance‑based pricing with:
 - Weekday 10% discount for orders ≥ $50  
 - Weekend 20% discount for orders ≥ $50  
 
-### 6. Full CLI Application
-`main.py` provides:
+### 6. Full CLI Application (University-provided)
+`main.py` (provided as part of the university assessment) includes:
 - User prompts  
 - Product scanning  
 - Cart building via pandas  
