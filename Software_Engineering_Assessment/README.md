@@ -63,7 +63,7 @@ Distance‑based pricing with:
 - Weekend 20% discount for orders ≥ $50  
 
 ### 6. Full CLI Application (University-provided)
-`main.py` (provided as part of the university assessment) includes:
+`provided_main.py` (provided as part of the university assessment) includes:
 - User prompts  
 - Product scanning  
 - Cart building via pandas  
