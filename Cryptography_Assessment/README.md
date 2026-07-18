@@ -17,6 +17,8 @@ Two attacker scripts demonstrate robustness against:
 
 ## Architecture
 
+![System Architecture](System_Architecture.png)
+
 The system is structured in three cryptographic layers beneath the application layer:
 
 1. **Diffie–Hellman Keys & Operations** (`dh_engine.py`)  
