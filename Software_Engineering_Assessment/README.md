@@ -10,7 +10,7 @@ Software_Engineering_Assessment/
 │
 ├── coles.py               # Core business logic (eligibility, limits, discounts)
 ├── test_coles.py          # Full unittest suite covering all functions
-├── main.py                # CLI application supplied as part of the university assessment
+├── provided_main.py       # CLI application supplied as part of the university assessment
 └── README.md              # Project documentation
 ```
 ---
@@ -88,7 +88,7 @@ pip install pandas tabulate
 ## Running the Application
 
 ```bash
-python main.py
+python provided_main.py
 ```
 
 ---
